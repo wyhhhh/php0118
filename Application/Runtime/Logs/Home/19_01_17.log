@@ -1,0 +1,313 @@
+[ 2019-01-17T10:35:14+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\IndexController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001627s ]
+
+[ 2019-01-17T10:35:28+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2019-01-17T10:35:31+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 7 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-01-17T10:36:59+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2019-01-17T13:40:20+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+
+[ 2019-01-17T13:40:33+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+
+[ 2019-01-17T13:40:46+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: a C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2019-01-17T13:41:08+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: a C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2019-01-17T13:41:09+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: a C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2019-01-17T13:41:20+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: a C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2019-01-17T13:44:35+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 66 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-01-17T13:44:46+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 67 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001062s ]
+
+[ 2019-01-17T13:45:57+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2019-01-17T13:46:28+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002618s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 64 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2019-01-17T13:47:51+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2019-01-17T13:47:57+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant flase - assumed 'flase' C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2019-01-17T13:48:32+08:00 ] ::1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined index: login C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: link C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 19 行.
+NOTIC: [8] Undefined index: Test_g C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 1 C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 2 C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 2 C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 26 行.
+
+[ 2019-01-17T13:48:32+08:00 ] ::1 /tp/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2019-01-17T13:48:50+08:00 ] ::1 /tp/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+NOTIC: [4096] Argument 1 passed to Home\Controller\ModeController::deploy_path() must be an instance of Home\Controller\string, string given, called in C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php on line 12 and defined C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Think C:\phpStudy\PHPTutorial\WWW\tp\Application\Home\Controller\ModeController.class.php 第 63 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
