@@ -99,7 +99,7 @@ class ModeController extends Controller {
     }
 
     /**
-     * 查询实时路径是否在配置文件中
+     * 查询路径权限码并判断
      */
     public function deploy_power()
     {
@@ -123,7 +123,40 @@ class ModeController extends Controller {
         $value = addslashes($value);
         return $value;
     }
+    public function get_s_menu()
+    {
+        $Model = M();
+        $sql1 = 'SELECT top,id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "1" AND attest = "1" ;';
+        $sql2 = 'SELECT top,id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "2" AND attest = "1" ;';
+        $sql3 = 'SELECT top,id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "3" AND attest = "1" ;';
+        $arr0 = $Model->query($sql1);
+        $arr1 = $Model->query($sql2);
+        $arr2 = $Model->query($sql3);
+        $date = array();
+        $link = array();
 
+        foreach ($arr0 as $key => $value) 
+        {
+            $n = $value['id'];
+            $date[$n] = $value;
+        }
+        foreach ($arr1 as $key => $value) 
+        {
+            $n = $value['top'];
+            $k = $value['id'];
+            $date[$n]['list'][$k] = $value;
+            $link[$k] = $n;
+        }
+        foreach ($arr2 as $key => $value) 
+        {
+            $n = $value['id'];
+            $k = $value['top'];
+            $j = $link[$k];
+            $date[$j]['list'][$k]['list'][$n] = $value;
+        }
+
+        return $date;
+    }
     /** 
     * 获取菜单
     * @param string $value 
@@ -132,7 +165,7 @@ class ModeController extends Controller {
     public function get_menu($role)
     {
         $Model = M();
-        $sql = 'SELECT id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "1" AND attest = "1" ;';
+        $sql = 'SELECT top,id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "1" AND attest = "1" ;';
         $menu = array();
         $result = $Model->query($sql);
         if ($role != "all") 
@@ -164,7 +197,7 @@ class ModeController extends Controller {
     {
     	foreach ($menu as $key => $value) 
     	{
-	    	$sql = 'SELECT id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "0" AND attest = "1" AND top = "'.$value['id'].'" ;';
+	    	$sql = 'SELECT top,id,name,CONCAT(controller,"/",module,"/",method) as url FROM t_menu_role WHERE is_top = "0" AND attest = "1" AND top = "'.$value['id'].'" ;';
 	    	$result = $Model->query($sql);
 
             if ($role != "all") 
@@ -181,7 +214,7 @@ class ModeController extends Controller {
             {
                 $list = $result;
             }
-            
+
 	    	if ($list[0]['down'] == 1) 
 	    	{
 	    		$menu[$key]['list'] = get_menu_list($list,$role);
